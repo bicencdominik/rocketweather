@@ -1,0 +1,22 @@
+[
+  {
+    "cityName": "Lysa hora",
+    "uri": "https://api.open-meteo.com/v1/forecast?latitude=49.5459&longitude=18.4483&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m&daily=weather_code&timezone=auto"
+  },
+  {
+    "cityName": "Barcelona",
+    "uri": "https://api.open-meteo.com/v1/forecast?latitude=41.3888&longitude=2.159&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m&daily=weather_code&timezone=auto"
+  },
+  {
+    "cityName": "Reykjavik",
+    "uri": "https://api.open-meteo.com/v1/forecast?latitude=64.1355&longitude=-21.8954&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m&daily=weather_code&timezone=auto"
+  },
+  {
+    "cityName": "Ostrava",
+    "uri": "https://api.open-meteo.com/v1/forecast?latitude=49.8347&longitude=18.282&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m&daily=weather_code&timezone=auto"
+  },
+  {
+    "cityName": "Prague",
+    "uri": "https://api.open-meteo.com/v1/forecast?latitude=50.088&longitude=14.4208&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m&daily=weather_code&timezone=auto"
+  }
+]
